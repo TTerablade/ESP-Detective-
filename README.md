@@ -16,6 +16,64 @@ Monitor 2.4GHz WiFi traffic
 Identify and list nearby access points and clients
 
 Conduct ethical network tests (deauth, EAPOL logoff, SAE flood, etc.)
+# ESP Detective  
+**Turn your ESP32 into a powerful wireless security and testing tool**
+
+---
+
+[![Star the Repo](https://img.shields.io/github/stars/your-repo-here.svg?style=social)](https://github.com/your-repo-here)  
+[Join our Discord](#) • [Visit the Official Website](#)
+
+---
+
+## Overview
+
+**ESP Detective** transforms any **ESP32** into a **versatile wireless security research toolkit**.  
+Whether you're learning about wireless security or conducting ethical penetration testing, ESP Detective provides a **cost-effective, portable platform** for WiFi and BLE analysis.
+
+Developed and maintained by **Albert Phu**, ESP Detective is **open-source** and welcomes community collaboration.
+
+---
+
+## Key Features
+
+### 🔧 WiFi Tools
+- Monitor 2.4GHz WiFi traffic  
+- Identify and list nearby access points and clients  
+- Conduct ethical network tests (deauth, EAPOL logoff, SAE flood, etc.)
+
+### 📡 BLE Tools
+- Scan for Bluetooth Low Energy (BLE) devices  
+- Analyze BLE traffic for security testing and research
+
+### 🧰 Additional Capabilities
+- Cross-protocol testing (WiFi + BLE)  
+- Lightweight and extensible framework *(plugin system coming soon)*  
+
+---
+
+## Supported Devices
+
+ESP Detective is compatible with **all ESP32 models**.
+
+**Recommended Board:**  
+> **ESP32-WROVER-B**
+
+> **Note:** Some features may vary depending on your ESP32 variant and hardware capabilities.
+
+---
+
+## Getting Started
+
+### 1️⃣ Flash Your Device
+
+A web-based flasher is **coming soon**.  
+For now, flash manually using `esptool` or your favorite flashing utility.
+
+Example:
+
+```bash
+esptool.py --chip esp32 --baud 921600 write_flash -z 0x1000 esp_detective.bin
 
 📡 BLE Tools
 Scan for Bluetooth Low Energy (BLE) devices
