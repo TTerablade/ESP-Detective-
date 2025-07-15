@@ -4,7 +4,8 @@
 ---
 
 Enjoying ESP Detective? Leave Us a Star!
-[Join our Discord](#) • [Visit the Official Website](#)
+
+[Join our Discord](https://discord.gg/CutphduCAS) • [Visit the Official Website](https://esp-detective.vercel.app/)
 
 ---
 
@@ -58,7 +59,7 @@ For now, flash manually using `esptool` or your favorite flashing utility.
 
 Get support, share ideas, and collaborate:
 
-[Join our Discord](#) • [Visit the Official Website](#)
+[Join our Discord](https://discord.gg/CutphduCAS) • [Visit the Official Website](https://esp-detective.vercel.app/)
 
 ---
 
