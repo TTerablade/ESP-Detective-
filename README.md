@@ -3,7 +3,7 @@
 
 ---
 
-[![Star the Repo](https://img.shields.io/github/stars/your-repo-here.svg?style=social)](https://github.com/TTerablade/ESP-Detective-/)  
+[![Star the Repo](https://img.shields.io/github/stars/TTerablade/ESP-Detective-.svg?style=social)](https://github.com/TTerablade/ESP-Detective-)
 [Join our Discord](#) • [Visit the Official Website](#)
 
 ---
