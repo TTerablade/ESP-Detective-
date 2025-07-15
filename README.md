@@ -13,7 +13,7 @@ Enjoying ESP Detective? Leave Us a Star!
 **ESP Detective** transforms any **ESP32** into a **versatile wireless security research toolkit**.  
 Whether you're learning about wireless security or conducting ethical penetration testing, ESP Detective provides a **cost-effective, portable platform** for WiFi and BLE analysis.
 
-Developed and maintained by **Albert Phu**, ESP Detective is **open-source** and welcomes community collaboration.
+Developed and maintained by **TTerablade**, ESP Detective is **open-source** and welcomes community collaboration.
 
 ---
 
@@ -104,7 +104,7 @@ See [LICENSE](./LICENSE) for more information.
 
 ## Author
 
-**Albert Phu**  
+**TTerablade**  
 Creator & Lead Developer of **ESP Detective**
 
 ---
