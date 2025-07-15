@@ -3,7 +3,7 @@
 
 ---
 
-[![Star the Repo](https://img.shields.io/github/stars/your-repo-here.svg?style=social)](https://github.com/your-repo-here)  
+[![Star the Repo](https://img.shields.io/github/stars/your-repo-here.svg?style=social)](https://github.com/TTerablade/ESP-Detective-/)  
 [Join our Discord](#) • [Visit the Official Website](#)
 
 ---
@@ -97,7 +97,7 @@ Please ensure your code is **well-documented** and follows best practices.
 
 ## License
 
-This project is released under the **MIT License**.  
+This project is released under the **GNU General Public License v3.0**.  
 See [LICENSE](./LICENSE) for more information.
 
 ---
